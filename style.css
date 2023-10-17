@@ -1,0 +1,53 @@
+.navbar{
+    background-color: #116A7B;
+    
+}
+#img_nav{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+.jumbotron{
+    background-color:#ffff; 
+}
+.populer_urunler li{
+    list-style-position: inside;
+    text-align: center;
+}
+.button1 { 
+    background-color: #116A7B; 
+    color: #C2DEDC; 
+    border: 2px solid #116A7B;
+    padding: 13px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 15px;
+    
+    
+}
+.card-text{
+    color: #116A7B;
+}
+.button2{
+    background-color: #116A7B; 
+    color: white; 
+    border: 2px solid #116A7B;
+    height: 40px;
+    width: 100px;     
+    border-radius: 10px;                        
+}
+.card-text{
+    font-weight: bold;
+}
+.card{
+    margin-top: 40px;
+    width: 18rem;
+    
+}
+.card-img-top{
+    height: 305px;
+}
